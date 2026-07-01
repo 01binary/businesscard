@@ -1,5 +1,7 @@
 # Interactive Business Card
 
+![preview](./preview.png)
+
 A two-sided PCB business card designed in `KiCad 9`, built around an `ESP32-S2-MINI-2` module, powered by `USB-C` or a `CR2032` coin cell.
 
 + Capacitive-Touch Piano Keys (`C4`–`C5`, one octave)
