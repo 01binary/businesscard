@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_3" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 269.9 153.07">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #3f3f3f;
+      }
+
+      .st1 {
+        fill: #bfbfbf;
+      }
+
+      .st2 {
+        fill: #7f7f7f;
+      }
+    </style>
+  </defs>
+  <polygon class="st1" points="43.19 23.19 48.61 27.91 23.98 35.03 18.55 30.3 43.19 23.19"/>
+  <polyline class="st1" points="23.98 64.82 23.98 35.03 18.55 30.3 18.55 60.1 23.98 64.82"/>
+  <polygon class="st1" points="58.98 59.94 59.05 24.91 53.63 20.18 53.57 55.2 58.98 59.94"/>
+  <polyline class="st0" points="28.75 68.95 28.75 63.44 23.98 64.82 28.75 68.95"/>
+  <polygon class="st1" points="34.33 57.01 39.1 55.63 34.33 51.5 34.33 57.01"/>
+  <polygon class="st0" points="34.33 42.41 34.33 51.5 39.1 55.63 39.1 46.54 39.1 41.03 34.33 42.41"/>
+  <path class="st2" d="M23.98,35.03v29.79l4.77-1.38v5.51l19.86-5.74V27.91l-24.63,7.11ZM39.1,46.54v9.09l-4.77,1.38v-14.6l4.77-1.38v5.51Z"/>
+  <polyline class="st2" points="68.98 22.04 68.91 57.07 58.98 59.94 59.05 24.91"/>
+  <polygon class="st1" points="59.05 24.91 53.63 20.18 63.57 17.31 68.98 22.04 59.05 24.91"/>
+</svg>
